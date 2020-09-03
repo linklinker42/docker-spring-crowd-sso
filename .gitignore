@@ -4,4 +4,3 @@ target/
 node_modules
 log4j/
 nbactions.xml
-*.jar
