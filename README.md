@@ -7,7 +7,6 @@ This is a Docker image using Tomcat 9. The app itself only provides the Crowd SS
 ## Build and Run
 
 ```shell
-mvn clean package
 docker build -t spring-crowd-sso .
 ```
 
